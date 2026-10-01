@@ -1,5 +1,6 @@
 # Laser Trimming Optimizer
 
+[Live at](https://jumo-nc-prediction.vercel.app)
 ## Industrial Machine Learning Decision Support System
 
 A machine learning-based decision support system developed as a team project to predict the optimal laser correction value (NCTr) for platinum thin-film resistance temperature sensors.
